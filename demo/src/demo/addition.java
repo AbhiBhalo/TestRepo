@@ -11,6 +11,7 @@ public class addition {
 	System.out.println("Multiplication");
 	System.out.println(e*d);
 	System.out.println("DIVIDE");
+	System.out.println("bhalo chu");
 	System.out.println(e/d);
 }
 }
