@@ -8,5 +8,7 @@ public class addition {
 	int d=6;
 	int e=9;
 	System.out.println(e-d);
+	System.out.println("Multiplication");
+	System.out.println(e*d);
 }
 }
